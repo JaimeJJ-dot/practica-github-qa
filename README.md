@@ -1,6 +1,6 @@
 
 # Práctica: Configuración de GitHub y Plantilla de Issues
-## Autor: Nombre del estudiante
+## Autor: Jaime Jiménez
 ## Propósito de la práctica
 Este repositorio se utiliza para una práctica de Aseguramiento de Calidad de
 Software cuyo objetivo es aprender a configurar un repositorio profesional en
